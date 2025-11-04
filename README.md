@@ -9,4 +9,6 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <td>Cauã</td>
+  <td>Caetés</td>
 </table>
